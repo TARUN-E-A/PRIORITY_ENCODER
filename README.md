@@ -1,3 +1,4 @@
+# Priority Encoder
 ## AIM:
 To design and simulate Priority Encoder using vivado.
 ## APPARATUS REQUIRED:
